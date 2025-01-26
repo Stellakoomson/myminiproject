@@ -162,6 +162,7 @@ margin-bottom: 20px; */
 }
 .rat{
     color: aqua;
-    /* background-color: rgb(181, 99, 99); */
-    
+    background-color: rgb(181, 99, 99);
+width: 500px;
 }
+
