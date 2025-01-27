@@ -164,5 +164,17 @@ margin-bottom: 20px; */
     color: aqua;
     background-color: rgb(181, 99, 99);
 width: 500px;
-}
+border-radius: 20px;
 
+
+}
+.him{
+    background-image: url(../images/IMG-20250112-WA0082.jpg);
+}
+.ap{
+    width: 50px;
+    background-color: rgb(232, 147, 43);
+padding-left: 20px;
+font-style: oblique;
+
+}
